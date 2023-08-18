@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb88866b980e9af",
+        "id": "893cb761174f44a6",
         "type": "tabs",
         "children": [
           {
-            "id": "9bec9d1efbffb41e",
+            "id": "7c4f6457a4ecdff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8.18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76439a48a3372fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8.18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8.18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8.18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "8.18.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +138,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76439a48a3372fd9",
+  "active": "7c4f6457a4ecdff5",
   "lastOpenFiles": [
     "8.18.md",
     "learning"
